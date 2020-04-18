@@ -1,0 +1,367 @@
+1
+00:00:00,030 --> 00:00:03,060
+in this video I want to tackle our
+
+2
+00:00:01,800 --> 00:00:04,920
+intuition of electricity and its
+
+3
+00:00:03,060 --> 00:00:06,029
+physical properties specifically today
+
+4
+00:00:04,920 --> 00:00:08,460
+we're going to be talking about current
+
+5
+00:00:06,029 --> 00:00:11,599
+so if I ask you right now what is
+
+6
+00:00:08,460 --> 00:00:11,599
+current what would you say
+
+7
+00:00:12,620 --> 00:00:16,939
+a lot of this is a current is the flow
+
+8
+00:00:14,990 --> 00:00:18,680
+of electrons and that matches really
+
+9
+00:00:16,939 --> 00:00:21,349
+closely with Imperium definition of
+
+10
+00:00:18,680 --> 00:00:23,599
+current which is is equal to Q over T or
+
+11
+00:00:21,349 --> 00:00:28,580
+current is equal to the flow of charge
+
+12
+00:00:23,599 --> 00:00:30,560
+over time and I demonstrate in this
+
+13
+00:00:28,580 --> 00:00:33,140
+little circuit we have a battery which
+
+14
+00:00:30,560 --> 00:00:35,329
+supplies a voltage and one single wire
+
+15
+00:00:33,140 --> 00:00:36,860
+which closes the loop now a lot of us
+
+16
+00:00:35,329 --> 00:00:38,540
+I've seen animations like this that even
+
+17
+00:00:36,860 --> 00:00:40,309
+been described as electrons pushing each
+
+18
+00:00:38,540 --> 00:00:42,350
+other from one end to the other but that
+
+19
+00:00:40,309 --> 00:00:43,940
+raises the question we've all asked what
+
+20
+00:00:42,350 --> 00:00:45,379
+if we have a six million kilometer long
+
+21
+00:00:43,940 --> 00:00:47,000
+wire and we ran a current through that
+
+22
+00:00:45,379 --> 00:00:48,140
+what the electrons would push each other
+
+23
+00:00:47,000 --> 00:00:51,469
+all the way to the other side
+
+24
+00:00:48,140 --> 00:00:53,030
+for eternity well maybe not all of us
+
+25
+00:00:51,469 --> 00:00:54,890
+have questioned that but that leaves us
+
+26
+00:00:53,030 --> 00:00:56,210
+wondering if electrons are too slow to
+
+27
+00:00:54,890 --> 00:00:58,789
+transfer the information in current
+
+28
+00:00:56,210 --> 00:01:00,589
+carrying wire what does the answer that
+
+29
+00:00:58,789 --> 00:01:02,300
+question is electric field but first
+
+30
+00:01:00,589 --> 00:01:04,129
+we're going to talk about drift velocity
+
+31
+00:01:02,300 --> 00:01:06,590
+now a lot of us have heard about your
+
+32
+00:01:04,129 --> 00:01:08,090
+philosophy class and what it is is the
+
+33
+00:01:06,590 --> 00:01:09,440
+speed at which a charge carrier moves
+
+34
+00:01:08,090 --> 00:01:11,659
+from one end of the circuit to the other
+
+35
+00:01:09,440 --> 00:01:13,310
+in this circuit it could take up to an
+
+36
+00:01:11,659 --> 00:01:14,330
+hour for an electron to transfer from
+
+37
+00:01:13,310 --> 00:01:16,280
+the negative terminal to the positive
+
+38
+00:01:14,330 --> 00:01:18,080
+terminal now something doesn't add up
+
+39
+00:01:16,280 --> 00:01:20,120
+here because our internet speeds are
+
+40
+00:01:18,080 --> 00:01:22,070
+much faster than that and it's more like
+
+41
+00:01:20,120 --> 00:01:24,530
+in the nanoseconds the transfer
+
+42
+00:01:22,070 --> 00:01:26,930
+something from here to here so how does
+
+43
+00:01:24,530 --> 00:01:28,340
+information energy travel from one end
+
+44
+00:01:26,930 --> 00:01:31,310
+of the current carrying wire to another
+
+45
+00:01:28,340 --> 00:01:33,560
+I've been analogy for this is the water
+
+46
+00:01:31,310 --> 00:01:35,360
+hose and this water hose assuming is
+
+47
+00:01:33,560 --> 00:01:36,860
+filled with water can be treated like a
+
+48
+00:01:35,360 --> 00:01:38,510
+current carrying wire with the water
+
+49
+00:01:36,860 --> 00:01:40,970
+decided being like the electrons in the
+
+50
+00:01:38,510 --> 00:01:43,250
+wire so if you were to put this on
+
+51
+00:01:40,970 --> 00:01:45,380
+faucet and crank up the pressure the
+
+52
+00:01:43,250 --> 00:01:47,870
+pressure waves would propagate through
+
+53
+00:01:45,380 --> 00:01:50,000
+the hose to the other end before the
+
+54
+00:01:47,870 --> 00:01:51,620
+wonderful fits dude the water molecule
+
+55
+00:01:50,000 --> 00:01:53,720
+here doesn't have to travel all the way
+
+56
+00:01:51,620 --> 00:01:55,100
+around to come out the other side the
+
+57
+00:01:53,720 --> 00:01:57,440
+pressure which travels at the speed of
+
+58
+00:01:55,100 --> 00:01:59,390
+sound propagates the information to the
+
+59
+00:01:57,440 --> 00:02:01,520
+other side of the hose for this water
+
+60
+00:01:59,390 --> 00:02:03,620
+molecule to come out and that's exactly
+
+61
+00:02:01,520 --> 00:02:04,760
+how a wire works and in a
+
+62
+00:02:03,620 --> 00:02:05,210
+current-carrying wire instead of
+
+63
+00:02:04,760 --> 00:02:06,860
+pressure
+
+64
+00:02:05,210 --> 00:02:08,840
+we have electric fields and those
+
+65
+00:02:06,860 --> 00:02:10,610
+propagate at the speed of light or
+
+66
+00:02:08,840 --> 00:02:12,260
+almost the speed of light and that
+
+67
+00:02:10,610 --> 00:02:15,050
+carries the information for the
+
+68
+00:02:12,260 --> 00:02:17,000
+electrons further down the wire to move
+
+69
+00:02:15,050 --> 00:02:19,520
+another question might have asked is
+
+70
+00:02:17,000 --> 00:02:21,739
+about capacitors now we know a parallel
+
+71
+00:02:19,520 --> 00:02:24,170
+plate capacitor there are no conductors
+
+72
+00:02:21,739 --> 00:02:25,760
+in between to carry charges therefore
+
+73
+00:02:24,170 --> 00:02:28,459
+according to the appearing definition of
+
+74
+00:02:25,760 --> 00:02:29,810
+current there is no current however
+
+75
+00:02:28,459 --> 00:02:31,400
+there is something called displacement
+
+76
+00:02:29,810 --> 00:02:33,020
+currents and that has to do with the
+
+77
+00:02:31,400 --> 00:02:34,640
+electric field so it's really
+
+78
+00:02:33,020 --> 00:02:36,680
+interesting to see how electric fields
+
+79
+00:02:34,640 --> 00:02:38,510
+and charge is very important for example
+
+80
+00:02:36,680 --> 00:02:39,680
+in chemistry we want to count for every
+
+81
+00:02:38,510 --> 00:02:41,180
+single charges flowing through the
+
+82
+00:02:39,680 --> 00:02:43,190
+circuit let's say in a battery
+
+83
+00:02:41,180 --> 00:02:44,540
+whereas in signal processing we want to
+
+84
+00:02:43,190 --> 00:02:46,250
+make sure that Layton sees as well as
+
+85
+00:02:44,540 --> 00:02:48,530
+possible and therefore we calculate the
+
+86
+00:02:46,250 --> 00:02:50,000
+permeability of the electric field I
+
+87
+00:02:48,530 --> 00:02:51,680
+want to end the video by reminding you
+
+88
+00:02:50,000 --> 00:02:52,940
+to never stop question deeper and for
+
+89
+00:02:51,680 --> 00:02:54,739
+those of you who already thought a step
+
+90
+00:02:52,940 --> 00:02:56,870
+ahead and asking how electric fields
+
+91
+00:02:54,739 --> 00:03:00,250
+properly information to space well honey
+
+92
+00:02:56,870 --> 00:03:00,250
+physicists have an explanation for you
